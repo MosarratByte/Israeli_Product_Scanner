@@ -1,0 +1,1325 @@
+[
+    {
+        "name": "Coca-Cola",
+        "brand": "Coca-Cola",
+        "category": "Beverage",
+        "isIsraeli": "Yes",
+        "alternative": "Mojo",
+        "price_range": "$",
+        "origin": "USA"
+    },
+    {
+        "name": "Pepsi",
+        "brand": "PepsiCo",
+        "category": "Beverage",
+        "isIsraeli": "Yes",
+        "alternative": "URO Cola",
+        "price_range": "$",
+        "origin": "USA"
+    },
+    {
+        "name": "Sprite",
+        "brand": "Coca-Cola",
+        "category": "Beverage",
+        "isIsraeli": "Yes",
+        "alternative": "Clemon",
+        "price_range": "$",
+        "origin": "USA"
+    },
+    {
+        "name": "Fanta",
+        "brand": "Coca-Cola",
+        "category": "Beverage",
+        "isIsraeli": "Yes",
+        "alternative": "URO Orange",
+        "price_range": "$",
+        "origin": "USA"
+    },
+    {
+        "name": "7UP",
+        "brand": "PepsiCo",
+        "category": "Beverage",
+        "isIsraeli": "Yes",
+        "alternative": "URO Lemon",
+        "price_range": "$",
+        "origin": "USA"
+    },
+    {
+        "name": "Red Bull",
+        "brand": "Red Bull GmbH",
+        "category": "Energy Drink",
+        "isIsraeli": "Yes",
+        "alternative": "Royal Tiger",
+        "price_range": "$$",
+        "origin": "Austria"
+    },
+    {
+        "name": "Doritos",
+        "brand": "PepsiCo",
+        "category": "Snacks",
+        "isIsraeli": "Yes",
+        "alternative": "Pran Chips",
+        "price_range": "$",
+        "origin": "USA"
+    },
+    {
+        "name": "Lay's",
+        "brand": "PepsiCo",
+        "category": "Snacks",
+        "isIsraeli": "Yes",
+        "alternative": "Ruchi Chips",
+        "price_range": "$",
+        "origin": "USA"
+    },
+    {
+        "name": "Oreo",
+        "brand": "Mondelēz",
+        "category": "Biscuits",
+        "isIsraeli": "Yes",
+        "alternative": "Olympic Digestive",
+        "price_range": "$",
+        "origin": "USA"
+    },
+    {
+        "name": "KitKat",
+        "brand": "Nestlé",
+        "category": "Chocolate",
+        "isIsraeli": "Yes",
+        "alternative": "Pran Chocolate",
+        "price_range": "$",
+        "origin": "Switzerland"
+    },
+    {
+        "name": "Toblerone",
+        "brand": "Mondelēz",
+        "category": "Chocolate",
+        "isIsraeli": "Yes",
+        "alternative": "Fayez Chocolate",
+        "price_range": "$$",
+        "origin": "Switzerland"
+    },
+    {
+        "name": "McDonald's",
+        "brand": "McDonald's",
+        "category": "Fast Food",
+        "isIsraeli": "Yes",
+        "alternative": "Takeout",
+        "price_range": "$$",
+        "origin": "USA"
+    },
+    {
+        "name": "KFC",
+        "brand": "KFC",
+        "category": "Fast Food",
+        "isIsraeli": "Yes",
+        "alternative": "Best Fried Chicken (BFC)",
+        "price_range": "$$",
+        "origin": "USA"
+    },
+    {
+        "name": "Domino's Pizza",
+        "brand": "Domino's",
+        "category": "Fast Food",
+        "isIsraeli": "Yes",
+        "alternative": "PizzaBurg",
+        "price_range": "$$",
+        "origin": "USA"
+    },
+    {
+        "name": "Pampers",
+        "brand": "Procter & Gamble",
+        "category": "Baby Care",
+        "isIsraeli": "Yes",
+        "alternative": "Twinkle",
+        "price_range": "$$",
+        "origin": "USA"
+    },
+    {
+        "name": "Johnson & Johnson Baby",
+        "brand": "Johnson & Johnson",
+        "category": "Baby Care",
+        "isIsraeli": "Yes",
+        "alternative": "Meril Baby",
+        "price_range": "$$",
+        "origin": "USA"
+    },
+    {
+        "name": "L'Oréal",
+        "brand": "L'Oréal",
+        "category": "Cosmetics",
+        "isIsraeli": "Yes",
+        "alternative": "Jui Shampoo",
+        "price_range": "$$$",
+        "origin": "France"
+    },
+    {
+        "name": "Garnier",
+        "brand": "L'Oréal",
+        "category": "Cosmetics",
+        "isIsraeli": "Yes",
+        "alternative": "Herbal Essence",
+        "price_range": "$$",
+        "origin": "France"
+    },
+    {
+        "name": "Pantene",
+        "brand": "Procter & Gamble",
+        "category": "Hair Care",
+        "isIsraeli": "Yes",
+        "alternative": "Jui Shampoo",
+        "price_range": "$$",
+        "origin": "USA"
+    },
+    {
+        "name": "Head & Shoulders",
+        "brand": "Procter & Gamble",
+        "category": "Hair Care",
+        "isIsraeli": "Yes",
+        "alternative": "Aloe Vera Shampoo",
+        "price_range": "$$",
+        "origin": "USA"
+    },
+    {
+        "name": "Dove",
+        "brand": "Unilever",
+        "category": "Skin Care",
+        "isIsraeli": "Yes",
+        "alternative": "Meril Soap",
+        "price_range": "$$",
+        "origin": "UK"
+    },
+    {
+        "name": "Vaseline",
+        "brand": "Unilever",
+        "category": "Skin Care",
+        "isIsraeli": "Yes",
+        "alternative": "BioAqua Lotion",
+        "price_range": "$$",
+        "origin": "UK"
+    },
+    {
+        "name": "Intel",
+        "brand": "Intel",
+        "category": "Technology",
+        "isIsraeli": "Yes",
+        "alternative": "AMD",
+        "price_range": "$$$",
+        "origin": "USA"
+    },
+    {
+        "name": "HP",
+        "brand": "HP",
+        "category": "Technology",
+        "isIsraeli": "Yes",
+        "alternative": "Acer",
+        "price_range": "$$$",
+        "origin": "USA"
+    },
+    {
+        "name": "Dell",
+        "brand": "Dell",
+        "category": "Technology",
+        "isIsraeli": "Yes",
+        "alternative": "Lenovo",
+        "price_range": "$$$",
+        "origin": "USA"
+    },
+    {
+        "name": "Sensodyne",
+        "brand": "GSK",
+        "category": "Oral Care",
+        "isIsraeli": "Yes",
+        "alternative": "CloseUp",
+        "price_range": "$",
+        "origin": "UK"
+    },
+    {
+        "name": "Colgate",
+        "brand": "Colgate-Palmolive",
+        "category": "Oral Care",
+        "isIsraeli": "Yes",
+        "alternative": "Pepsodent",
+        "price_range": "$",
+        "origin": "USA"
+    },
+    {
+        "name": "Product 30",
+        "brand": "Brand 30",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 30",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 31",
+        "brand": "Brand 31",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 31",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 32",
+        "brand": "Brand 32",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 32",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 33",
+        "brand": "Brand 33",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 33",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 34",
+        "brand": "Brand 34",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 34",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 35",
+        "brand": "Brand 35",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 35",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 36",
+        "brand": "Brand 36",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 36",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 37",
+        "brand": "Brand 37",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 37",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 38",
+        "brand": "Brand 38",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 38",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 39",
+        "brand": "Brand 39",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 39",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 40",
+        "brand": "Brand 40",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 40",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 41",
+        "brand": "Brand 41",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 41",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 42",
+        "brand": "Brand 42",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 42",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 43",
+        "brand": "Brand 43",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 43",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 44",
+        "brand": "Brand 44",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 44",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 45",
+        "brand": "Brand 45",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 45",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 46",
+        "brand": "Brand 46",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 46",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 47",
+        "brand": "Brand 47",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 47",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 48",
+        "brand": "Brand 48",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 48",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 49",
+        "brand": "Brand 49",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 49",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 50",
+        "brand": "Brand 50",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 50",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 51",
+        "brand": "Brand 51",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 51",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 52",
+        "brand": "Brand 52",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 52",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 53",
+        "brand": "Brand 53",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 53",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 54",
+        "brand": "Brand 54",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 54",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 55",
+        "brand": "Brand 55",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 55",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 56",
+        "brand": "Brand 56",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 56",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 57",
+        "brand": "Brand 57",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 57",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 58",
+        "brand": "Brand 58",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 58",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 59",
+        "brand": "Brand 59",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 59",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 60",
+        "brand": "Brand 60",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 60",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 61",
+        "brand": "Brand 61",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 61",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 62",
+        "brand": "Brand 62",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 62",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 63",
+        "brand": "Brand 63",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 63",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 64",
+        "brand": "Brand 64",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 64",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 65",
+        "brand": "Brand 65",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 65",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 66",
+        "brand": "Brand 66",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 66",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 67",
+        "brand": "Brand 67",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 67",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 68",
+        "brand": "Brand 68",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 68",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 69",
+        "brand": "Brand 69",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 69",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 70",
+        "brand": "Brand 70",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 70",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 71",
+        "brand": "Brand 71",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 71",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 72",
+        "brand": "Brand 72",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 72",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 73",
+        "brand": "Brand 73",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 73",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 74",
+        "brand": "Brand 74",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 74",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 75",
+        "brand": "Brand 75",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 75",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 76",
+        "brand": "Brand 76",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 76",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 77",
+        "brand": "Brand 77",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 77",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 78",
+        "brand": "Brand 78",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 78",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 79",
+        "brand": "Brand 79",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 79",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 80",
+        "brand": "Brand 80",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 80",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 81",
+        "brand": "Brand 81",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 81",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 82",
+        "brand": "Brand 82",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 82",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 83",
+        "brand": "Brand 83",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 83",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 84",
+        "brand": "Brand 84",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 84",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 85",
+        "brand": "Brand 85",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 85",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 86",
+        "brand": "Brand 86",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 86",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 87",
+        "brand": "Brand 87",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 87",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 88",
+        "brand": "Brand 88",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 88",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 89",
+        "brand": "Brand 89",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 89",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 90",
+        "brand": "Brand 90",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 90",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 91",
+        "brand": "Brand 91",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 91",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 92",
+        "brand": "Brand 92",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 92",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 93",
+        "brand": "Brand 93",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 93",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 94",
+        "brand": "Brand 94",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 94",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 95",
+        "brand": "Brand 95",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 95",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 96",
+        "brand": "Brand 96",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 96",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 97",
+        "brand": "Brand 97",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 97",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 98",
+        "brand": "Brand 98",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 98",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 99",
+        "brand": "Brand 99",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 99",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 100",
+        "brand": "Brand 100",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 100",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 101",
+        "brand": "Brand 101",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 101",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 102",
+        "brand": "Brand 102",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 102",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 103",
+        "brand": "Brand 103",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 103",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 104",
+        "brand": "Brand 104",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 104",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 105",
+        "brand": "Brand 105",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 105",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 106",
+        "brand": "Brand 106",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 106",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 107",
+        "brand": "Brand 107",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 107",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 108",
+        "brand": "Brand 108",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 108",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 109",
+        "brand": "Brand 109",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 109",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 110",
+        "brand": "Brand 110",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 110",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 111",
+        "brand": "Brand 111",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 111",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 112",
+        "brand": "Brand 112",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 112",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 113",
+        "brand": "Brand 113",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 113",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 114",
+        "brand": "Brand 114",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 114",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 115",
+        "brand": "Brand 115",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 115",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 116",
+        "brand": "Brand 116",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 116",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 117",
+        "brand": "Brand 117",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 117",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 118",
+        "brand": "Brand 118",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 118",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 119",
+        "brand": "Brand 119",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 119",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 120",
+        "brand": "Brand 120",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 120",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 121",
+        "brand": "Brand 121",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 121",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 122",
+        "brand": "Brand 122",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 122",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 123",
+        "brand": "Brand 123",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 123",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 124",
+        "brand": "Brand 124",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 124",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 125",
+        "brand": "Brand 125",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 125",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 126",
+        "brand": "Brand 126",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 126",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 127",
+        "brand": "Brand 127",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 127",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 128",
+        "brand": "Brand 128",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 128",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 129",
+        "brand": "Brand 129",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 129",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 130",
+        "brand": "Brand 130",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 130",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 131",
+        "brand": "Brand 131",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 131",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 132",
+        "brand": "Brand 132",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 132",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 133",
+        "brand": "Brand 133",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 133",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 134",
+        "brand": "Brand 134",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 134",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 135",
+        "brand": "Brand 135",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 135",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 136",
+        "brand": "Brand 136",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 136",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 137",
+        "brand": "Brand 137",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 137",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 138",
+        "brand": "Brand 138",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 138",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 139",
+        "brand": "Brand 139",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 139",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 140",
+        "brand": "Brand 140",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 140",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 141",
+        "brand": "Brand 141",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 141",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 142",
+        "brand": "Brand 142",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 142",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 143",
+        "brand": "Brand 143",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 143",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 144",
+        "brand": "Brand 144",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 144",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 145",
+        "brand": "Brand 145",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 145",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 146",
+        "brand": "Brand 146",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 146",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 147",
+        "brand": "Brand 147",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 147",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 148",
+        "brand": "Brand 148",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 148",
+        "price_range": "$$",
+        "origin": "Unknown"
+    },
+    {
+        "name": "Product 149",
+        "brand": "Brand 149",
+        "category": "Miscellaneous",
+        "isIsraeli": "Yes",
+        "alternative": "Alternative 149",
+        "price_range": "$$",
+        "origin": "Unknown"
+    }
+]
